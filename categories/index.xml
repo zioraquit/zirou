@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on zioru</title>
+    <link>https://zioraquit.github.io/zioru/categories/</link>
+    <description>Recent content in Categories on zioru</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://zioraquit.github.io/zioru/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Background</title>
+      <link>https://zioraquit.github.io/zioru/categories/background/</link>
+      <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://zioraquit.github.io/zioru/categories/background/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wallpapers</title>
+      <link>https://zioraquit.github.io/zioru/categories/wallpapers/</link>
+      <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://zioraquit.github.io/zioru/categories/wallpapers/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
